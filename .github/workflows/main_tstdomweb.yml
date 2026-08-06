@@ -52,4 +52,4 @@ jobs:
           app-name: 'TSTDOMWEB'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D967461D5A7949DCB24A2AC888323C6B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BEDB275F95674A93A104AC80A66CA621 }}
